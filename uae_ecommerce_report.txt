@@ -1,0 +1,14 @@
+
+Customer Behavior Analysis Report - Dubai/UAE E-Commerce Platform
+
+- Total Customers Analyzed: 348
+- High-Value Customers: 0 (0.00% of total) - Focus marketing on Gold members in Dubai.
+- Top Spending City: Dubai (Target with localized ads in Dubai/Abu Dhabi).
+- Top Spending Age Group: Middle (31-50) (Personalize offers for seniors if applicable).
+- Insights: Females in Dubai show higher average spend; target them with discount campaigns.
+- Recommendations:
+  1. Run targeted email campaigns for high-spend segments in Sharjah and Ajman to boost retention.
+  2. Offer loyalty upgrades to Silver members with medium spend to convert to high-value.
+  3. Use satisfaction data to improve services for unsatisfied customers in Ras Al Khaimah.
+
+Visualizations above support these findings for data-driven marketing in UAE.
